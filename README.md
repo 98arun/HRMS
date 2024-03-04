@@ -3,6 +3,8 @@
 ## Overview
 This is a simplified HRMS (Human Resource Management System) application focusing on employee leave management built using React. The application allows employees to request leaves, managers to approve/reject those requests, and HR can view overall leave trends.
 
+## [Demo Link](https://hrms-elms.netlify.app/)
+
 ### Features
 - **User Authentication**: Utilizes Firebase for user authentication, allowing role-based login.
 - **Employee Leave Requests**: Employees can request leaves through the application.
